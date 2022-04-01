@@ -1,6 +1,7 @@
 # internal-inventory-manager
 "a script for managing companies internal spreadsheets and forecasting sales using 2 separate methods"
 
+-- ALL DATA WITHIN THIS PROJECT IS HEAVILY EDITED TO HIDE SENSITIVE INFORMATION --
 
 This is an internal inventory managing scipt I built for a past company. It was used to manage the interactions between their inventory related spreadsheets in order to automate tasks, keep transfers of info reliable, and give a format to all entered data
 this manager has 4 different functions:
