@@ -1,0 +1,1506 @@
+{
+    "sku_list": [
+        "COS-QS75",
+        "COS-QB75",
+        "COS-QS90",
+        "COS-QB90",
+        "COS-QS48",
+        "COS-QB48",
+        "COS-63ISS75",
+        "COS-63ISS90",
+        "UC30",
+        "UC36",
+        "UMC30",
+        "UMC36",
+        "COS-668ICS750",
+        "COS-668ICS900",
+        "COS-640STX-E",
+        "850SLTX-E",
+        "950SLTX-E",
+        "COS-668A750",
+        "COS-668AS750",
+        "COS-668A900",
+        "COS-668AS900",
+        "COS-63175",
+        "COS-63175S",
+        "COS-63190",
+        "COS-63190S",
+        "COS-244ECC",
+        "COS-304ECC",
+        "COS-365ECC",
+        "COS-DIC366",
+        "COS-DIC304",
+        "COS-3EU30SS",
+        "COS-3EU30W",
+        "COS-3EU30B",
+        "COS-KS6U30",
+        "COS-KS6U36",
+        "COS-6324EWH",
+        "COS-5MU36",
+        "COS-5MU30",
+        "COS-5U30",
+        "COS-965AGFC",
+        "COS-965AGC",
+        "COS-244AGC",
+        "COS-30ESWC",
+        "COS-30EDWC",
+        "COS-305DFSC",
+        "COS-305AERC",
+        "F965NF",
+        "F965",
+        "C51EIX",
+        "C106SIX-PT",
+        "COS-GRT304",
+        "COS-GRT366",
+        "COS-EPGR244",
+        "COS-EPGR486G",
+        "COS-EPGR366",
+        "COS-EPGR304",
+        "COS-GRP486G",
+        "COS-GRP366",
+        "COS-GRP304",
+        "HRG-3618U",
+        "HRG-3617U",
+        "COS-FDR225RHSS",
+        "COS-FDR225RHSS-G",
+        "COS-SBSR263RHSS",
+        "COS-148TMFSS",
+        "COS-24BIWCS",
+        "COS-DIS6502",
+        "COS-DFR304",
+        "COS-DFR366",
+        "COS-DFR486G",
+        "COS-07CTMSSB",
+        "COS-3016ORM1SS",
+        "COS-3019ORM2SS",
+        "COS-BIM22SSB",
+        "COS-2413ORM1SS",
+        "COS-30BIMTK",
+        "COS-12MWDSS",
+        "COS-12MWDSS-NH",
+        "COS-KF776SS",
+        "COS-KF501SS",
+        "COS-KF863C",
+        "COS-KF776C",
+        "COS-KF501C",
+        "COS-KF222C",
+        "COS-KF548SS",
+        "COS-KF548C",
+        "COS-23AFAKB",
+        "COS-58AFAKSS",
+        "COS-55AFDKB",
+        "COS-317AFOSS",
+        "RA19RGBTW",
+        "RA1995K-5",
+        "RA19927K-4",
+        "COS-SGG",
+        "COS-YLIC1",
+        "COS-SVK1",
+        "COV-309D",
+        "COV-309DB",
+        "CFK1-TM",
+        "CFK3-TM",
+        "CFK1",
+        "CFK1-RS",
+        "CFK5",
+        "CFK5-JL",
+        "CFK3",
+        "CFK-MW1",
+        "CFK2",
+        "COS-SBM",
+        "CFK3-DM",
+        "CFK4"
+    ],
+    "reduced_sku_list": [
+        "COS-QS75",
+        "COS-QB75",
+        "COS-QS90",
+        "COS-QB90",
+        "COS-QS48",
+        "COS-QB48",
+        "COS-63ISS75",
+        "COS-63ISS90",
+        "UC30",
+        "UC36",
+        "UMC30",
+        "UMC36",
+        "COS-668ICS750",
+        "COS-668ICS900",
+        "COS-640STX-E",
+        "850SLTX-E",
+        "COS-668A750",
+        "COS-668AS750",
+        "COS-668A900",
+        "COS-668AS900",
+        "COS-63175",
+        "COS-63175S",
+        "COS-63190",
+        "COS-63190S",
+        "COS-244ECC",
+        "COS-304ECC",
+        "COS-365ECC",
+        "COS-DIC366",
+        "COS-DIC304",
+        "COS-3EU30SS",
+        "COS-3EU30W",
+        "COS-3EU30B",
+        "COS-KS6U30",
+        "COS-KS6U36",
+        "COS-6324EWH",
+        "COS-5MU36",
+        "COS-5MU30",
+        "COS-5U30",
+        "COS-965AGFC",
+        "COS-965AGC",
+        "COS-244AGC",
+        "COS-30ESWC",
+        "COS-30EDWC",
+        "COS-305AERC",
+        "F965NF",
+        "F965",
+        "C51EIX",
+        "C106SIX-PT",
+        "COS-GRT366",
+        "COS-EPGR244",
+        "COS-EPGR486G",
+        "COS-EPGR366",
+        "COS-EPGR304",
+        "COS-GRP486G",
+        "COS-GRP366",
+        "COS-FDR225RHSS",
+        "COS-FDR225RHSS-G",
+        "COS-SBSR263RHSS",
+        "COS-24BIWCS",
+        "COS-DIS6502",
+        "COS-3016ORM1SS",
+        "COS-3019ORM2SS",
+        "COS-BIM22SSB",
+        "COS-2413ORM1SS",
+        "COS-30BIMTK",
+        "COS-12MWDSS",
+        "COS-12MWDSS-NH",
+        "COS-23AFAKB",
+        "RA1995K-5",
+        "RA19927K-4",
+        "CFK1-TM",
+        "CFK3-TM",
+        "CFK5-JL",
+        "CFK-MW1",
+        "COS-SBM",
+        "CFK3-DM",
+        "CFK4"
+    ],
+    "sku_dict": {
+        "COS-63175-DL": [
+            "COS-63175",
+            "CFK1-TM"
+        ],
+        "COS-63175S-DL": [
+            "COS-63175S",
+            "CFK1-TM"
+        ],
+        "COS-63190-DL": [
+            "COS-63190",
+            "CFK1-TM"
+        ],
+        "COS-63190S-DL": [
+            "COS-63190S",
+            "CFK1-TM"
+        ],
+        "COS-63ISS75-DL": [
+            "COS-63ISS75",
+            "CFK1-TM"
+        ],
+        "COS-63ISS90-DL": [
+            "COS-63ISS90",
+            "CFK1-TM"
+        ],
+        "COS-668A750-DL": [
+            "COS-668A750",
+            "CFK1-TM"
+        ],
+        "COS-668A900-DL": [
+            "COS-668A900",
+            "CFK1-TM"
+        ],
+        "COS-668AS750-DL": [
+            "COS-668AS750",
+            "CFK1-TM"
+        ],
+        "COS-668AS900-DL": [
+            "COS-668AS900",
+            "CFK1-TM"
+        ],
+        "COS-668ICS750-DL": [
+            "COS-668ICS750",
+            "CFK1-TM"
+        ],
+        "COS-668ICS900-DL": [
+            "COS-668ICS900",
+            "CFK1-TM"
+        ],
+        "COS-668WRC90-DL": [
+            "COS-668A900",
+            "CFK1-TM"
+        ],
+        "COS-668WRC90": [
+            "COS-668A900"
+        ],
+        "COS-668WRC75": [
+            "COS-668A750"
+        ],
+        "COS-668WRCS90-DL": [
+            "COS-668AS900",
+            "CFK1-TM"
+        ],
+        "COS-UC30-DL": [
+            "UC30",
+            "CFK1-TM"
+        ],
+        "UMC30-DL": [
+            "UMC30",
+            "CFK1-TM"
+        ],
+        "COS-640SLTX-E": [
+            "COS-640STX-E"
+        ],
+        "COS-C106SIX-PT": [
+            "C106SIX-PT"
+        ],
+        "COS-63ISS75DL": [
+            "COS-63ISS75",
+            "CFK1-TM"
+        ],
+        "COS-63ISS90DL": [
+            "COS-63ISS90",
+            "CFK1-TM"
+        ],
+        "COS-668WRCS75": [
+            "COS-668AS750"
+        ],
+        "COS-668WRCS75-DL": [
+            "COS-668AS750",
+            "CFK1-TM"
+        ],
+        "COS-668WRC75-DL": [
+            "COS-668A750",
+            "CFK1-TM"
+        ],
+        "COS-668WRCS90": [
+            "COS-668AS900"
+        ],
+        "RA1995K-5-W": [
+            "RA1995K-5"
+        ]
+    },
+    "sku details": {
+        "COS-QS75": {
+            "size": [
+                26.0,
+                16.0,
+                34.0
+            ],
+            "desc": "30 in. Ducted Under Cabinet Range Hood in Stainless Steel with Touch Display, LED Lighting and Permanent Filters",
+            "forecastability": [
+                "very high",
+                5.0
+            ],
+            "factory code": 5,
+            "container qty": 270,
+            "safety": "40",
+            "min": "15"
+        },
+        "COS-QB75": {
+            "size": [
+                27.0,
+                18.0,
+                34.0
+            ],
+            "desc": "COS-QB75",
+            "forecastability": [
+                "low",
+                33.0
+            ],
+            "factory code": 5,
+            "container qty": 270,
+            "safety": "15",
+            "min": "5"
+        },
+        "COS-QS90": {
+            "size": [
+                26.0,
+                16.0,
+                40.0
+            ],
+            "desc": "36 in. Ducted Under Cabinet Range Hood in Stainless Steel with Touch Display, LED Lighting and Permanent Filters",
+            "forecastability": [
+                "low",
+                41.0
+            ],
+            "factory code": 5,
+            "container qty": 235,
+            "safety": "15",
+            "min": "5"
+        },
+        "COS-QB90": {
+            "size": [
+                26.0,
+                16.0,
+                40.0
+            ],
+            "desc": "COS-QB90",
+            "forecastability": [
+                "medium",
+                23.0
+            ],
+            "factory code": 5,
+            "container qty": 252,
+            "safety": "15",
+            "min": "5"
+        },
+        "COS-QS48": {
+            "size": [
+                30.0,
+                40.0,
+                52.0
+            ],
+            "desc": "48 in. Ducted Under Cabinet Range Hood in Stainless Steel with Touchscreen, LED Lighting and Remote Control",
+            "forecastability": [
+                "medium",
+                21.0
+            ],
+            "factory code": 5,
+            "container qty": 160,
+            "safety": "10",
+            "min": "5"
+        },
+        "COS-QB48": {
+            "size": [
+                31.0,
+                40.0,
+                52.0
+            ],
+            "desc": "COS-QB48",
+            "forecastability": [
+                "low",
+                46.0
+            ],
+            "factory code": 5,
+            "container qty": 198,
+            "safety": "10",
+            "min": "5"
+        },
+        "COS-63ISS75": {
+            "size": [
+                26.0,
+                21.0,
+                40.0
+            ],
+            "desc": "30\" Stainless Steel Island Range Hood with Digital Touch Controls",
+            "forecastability": [
+                "high",
+                9.0
+            ],
+            "factory code": 7,
+            "container qty": 220,
+            "safety": "15",
+            "min": "5"
+        },
+        "COS-63ISS90": {
+            "size": [
+                26.0,
+                21.0,
+                40.0
+            ],
+            "desc": "63ISS90",
+            "forecastability": [
+                "medium",
+                21.0
+            ],
+            "factory code": 7,
+            "container qty": 220,
+            "safety": "25",
+            "min": "10"
+        },
+        "UC30": {
+            "size": [
+                24.0,
+                15.0,
+                33.0
+            ],
+            "desc": "30 in. Ducted Under Cabinet Range Hood in Stainless Steel with LED Lighting and Permanent Filters",
+            "forecastability": [
+                "very high",
+                4.0
+            ],
+            "factory code": 7,
+            "container qty": 420,
+            "safety": "40",
+            "min": "15"
+        },
+        "UC36": {
+            "size": [
+                23.23,
+                37.8,
+                12.8
+            ],
+            "desc": "UC36",
+            "forecastability": [
+                "medium",
+                22.0
+            ],
+            "factory code": 7,
+            "container qty": 337,
+            "safety": "10",
+            "min": "5"
+        },
+        "UMC30": {
+            "size": [
+                24.0,
+                15.0,
+                33.0
+            ],
+            "desc": "30 in. Ducted Under Cabinet Range Hood in Stainless Steel with LED Lighting and Permanent Filters",
+            "forecastability": [
+                "medium",
+                10.0
+            ],
+            "factory code": 7,
+            "container qty": 420,
+            "safety": "25",
+            "min": "10"
+        },
+        "UMC36": {
+            "size": [
+                23.23,
+                37.8,
+                12.8
+            ],
+            "desc": "UMC36",
+            "forecastability": [
+                "medium",
+                14.0
+            ],
+            "factory code": 7,
+            "container qty": 337,
+            "safety": "10",
+            "min": "5"
+        },
+        "COS-668ICS750": {
+            "size": [
+                26.0,
+                18.0,
+                39.0
+            ],
+            "desc": "30 in. Ducted Island Mount Range Hood in Stainless Steel with LED Lighting and Permanent Filters",
+            "forecastability": [
+                "high",
+                7.0
+            ],
+            "factory code": 7,
+            "container qty": 195,
+            "safety": "40",
+            "min": "15"
+        },
+        "COS-668ICS900": {
+            "size": [
+                26.0,
+                18.0,
+                39.0
+            ],
+            "desc": "36 in. Ducted Island Mount Range Hood in Stainless Steel with LED Lighting and Permanent Filters",
+            "forecastability": [
+                "medium",
+                10.0
+            ],
+            "factory code": 7,
+            "container qty": 195,
+            "safety": "25",
+            "min": "10"
+        },
+        "COS-640STX-E": {
+            "size": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "desc": "Cosmo 24 in. Gas Cooktop in Stainless Steel with 4 Sealed Burners,Drop-in, Cast Iron Grate, Metal Front Knob Control Panel",
+            "forecastability": [
+                "low",
+                29.0
+            ],
+            "factory code": 2,
+            "container qty": 840,
+            "safety": "15",
+            "min": "5"
+        },
+        "850SLTX-E": {
+            "size": [
+                7.0,
+                23.0,
+                33.0
+            ],
+            "desc": "30 in. Gas Cooktop in Stainless Steel with 5 Sealed Brass Burners",
+            "forecastability": [
+                "high",
+                8.0
+            ],
+            "factory code": 2,
+            "container qty": 498,
+            "safety": "15",
+            "min": "5"
+        },
+        "COS-668A750": {
+            "size": [
+                18.0,
+                21.0,
+                38.0
+            ],
+            "desc": "30 in. Ducted Wall Mount Range Hood in Stainless Steel with LED Lighting and Permanent Filters",
+            "forecastability": [
+                "medium",
+                11.0
+            ],
+            "factory code": 7,
+            "container qty": 240,
+            "safety": "15",
+            "min": "5"
+        },
+        "COS-668AS750": {
+            "size": [
+                18.0,
+                21.0,
+                38.0
+            ],
+            "desc": "30 in. Ducted Wall Mount Range Hood in Stainless Steel with Touch Controls, LED Lighting and Permanent Filters",
+            "forecastability": [
+                "very high",
+                5.0
+            ],
+            "factory code": 7,
+            "container qty": 240,
+            "safety": "25",
+            "min": "10"
+        },
+        "COS-668A900": {
+            "size": [
+                18.0,
+                21.0,
+                38.0
+            ],
+            "desc": "36 in. Ducted Wall Mount Range Hood in Stainless Steel with LED Lighting and Permanent Filters",
+            "forecastability": [
+                "low",
+                32.0
+            ],
+            "factory code": 7,
+            "container qty": 240,
+            "safety": "10",
+            "min": "5"
+        },
+        "COS-668AS900": {
+            "size": [
+                18.0,
+                21.0,
+                38.0
+            ],
+            "desc": "36 in. Ducted Wall Mount Range Hood in Stainless Steel with Touch Controls, LED Lighting and Permanent Filters",
+            "forecastability": [
+                "medium",
+                10.0
+            ],
+            "factory code": 7,
+            "container qty": 240,
+            "safety": "10",
+            "min": "5"
+        },
+        "COS-63175": {
+            "size": [
+                15.0,
+                21.0,
+                32.0
+            ],
+            "desc": "30 in. Ducted Wall Mount Range Hood in Stainless Steel with LED Lighting and Permanent Filters",
+            "forecastability": [
+                "medium",
+                12.0
+            ],
+            "factory code": 7,
+            "container qty": 305,
+            "safety": "40",
+            "min": "15"
+        },
+        "COS-63175S": {
+            "size": [
+                15.0,
+                21.0,
+                32.0
+            ],
+            "desc": "30 in. Ducted Wall Mount Range Hood in Stainless Steel with Touch Controls, LED Lighting and Permanent Filters",
+            "forecastability": [
+                "high",
+                6.0
+            ],
+            "factory code": 7,
+            "container qty": 305,
+            "safety": "40",
+            "min": "15"
+        },
+        "COS-63190": {
+            "size": [
+                15.0,
+                21.0,
+                37.0
+            ],
+            "desc": "36 in. Ducted Wall Mount Range Hood in Stainless Steel with LED Lighting and Permanent Filters",
+            "forecastability": [
+                "high",
+                5.0
+            ],
+            "factory code": 7,
+            "container qty": 244,
+            "safety": "25",
+            "min": "10"
+        },
+        "COS-63190S": {
+            "size": [
+                15.0,
+                21.0,
+                37.0
+            ],
+            "desc": "36 in. Ducted Wall Mount Range Hood in Stainless Steel with Touch Controls, LED Lighting and Permanent Filters",
+            "forecastability": [
+                "medium",
+                16.0
+            ],
+            "factory code": 7,
+            "container qty": 244,
+            "safety": "40",
+            "min": "15"
+        },
+        "COS-244ECC": {
+            "size": [
+                19.12,
+                21.5,
+                24.0
+            ],
+            "desc": "COS-244ECC",
+            "forecastability": [
+                "low",
+                26.0
+            ],
+            "factory code": 2,
+            "container qty": 561,
+            "safety": "10",
+            "min": "5"
+        },
+        "COS-304ECC": {
+            "size": [
+                9.0,
+                36.0,
+                28.0
+            ],
+            "desc": "COS-304ECC",
+            "forecastability": [
+                "high",
+                7.0
+            ],
+            "factory code": 2,
+            "container qty": 418,
+            "safety": "15",
+            "min": "5"
+        },
+        "COS-365ECC": {
+            "size": [
+                9.0,
+                28.0,
+                42.0
+            ],
+            "desc": "COS-365ECC",
+            "forecastability": [
+                "medium",
+                14.0
+            ],
+            "factory code": 2,
+            "container qty": 374,
+            "safety": "25",
+            "min": "10"
+        },
+        "COS-DIC366": {
+            "size": [
+                7.0,
+                23.0,
+                38.0
+            ],
+            "desc": "COS-DIC366",
+            "forecastability": [
+                "medium",
+                18.0
+            ],
+            "factory code": 3,
+            "container qty": 462,
+            "safety": "10",
+            "min": "5"
+        },
+        "COS-DIC304": {
+            "size": [
+                7.0,
+                23.0,
+                33.0
+            ],
+            "desc": "COS-DIC304",
+            "forecastability": [
+                "low",
+                40.0
+            ],
+            "factory code": 3,
+            "container qty": 570,
+            "safety": "10",
+            "min": "5"
+        },
+        "COS-3EU30SS": {
+            "size": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "desc": "COS-3EU30SS",
+            "forecastability": [
+                "N/A",
+                "N/A"
+            ],
+            "factory code": "disregard",
+            "container qty": 1
+        },
+        "COS-3EU30W": {
+            "size": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "desc": "COS-3EU30W",
+            "forecastability": [
+                "N/A",
+                "N/A"
+            ],
+            "factory code": "disregard",
+            "container qty": 1
+        },
+        "COS-3EU30B": {
+            "size": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "desc": "COS-3EU30B",
+            "forecastability": [
+                "N/A",
+                "N/A"
+            ],
+            "factory code": "disregard",
+            "container qty": 1
+        },
+        "COS-KS6U30": {
+            "size": [
+                9.65,
+                25.2,
+                32.67
+            ],
+            "desc": "COS-KS6U30",
+            "forecastability": [
+                "very low",
+                61.0
+            ],
+            "factory code": 4,
+            "container qty": 569,
+            "safety": "10",
+            "min": "5"
+        },
+        "COS-KS6U36": {
+            "size": [
+                9.65,
+                25.2,
+                38.6
+            ],
+            "desc": "COS-KS6U36",
+            "forecastability": [
+                "low",
+                48.0
+            ],
+            "factory code": 4,
+            "container qty": 470,
+            "safety": "10",
+            "min": "5"
+        },
+        "COS-6324EWH": {
+            "size": [
+                21.25,
+                9.44,
+                25.59
+            ],
+            "desc": "COS-6324EWH",
+            "forecastability": [
+                "very low",
+                73.0
+            ],
+            "factory code": 7,
+            "container qty": 780,
+            "safety": "25",
+            "min": "10"
+        },
+        "COS-5MU36": {
+            "size": [
+                7.0,
+                22.0,
+                37.0
+            ],
+            "desc": "COS-5MU36",
+            "forecastability": [
+                "medium",
+                23.0
+            ],
+            "factory code": 8,
+            "container qty": 616,
+            "safety": "40",
+            "min": "15"
+        },
+        "COS-5MU30": {
+            "size": [
+                7.0,
+                22.0,
+                32.0
+            ],
+            "desc": "30 in. Ducted Under Cabinet Range Hood in Stainless Steel with LEDs and Push Buttons",
+            "forecastability": [
+                "low",
+                50.0
+            ],
+            "factory code": 8,
+            "container qty": 728,
+            "safety": "15",
+            "min": "5"
+        },
+        "COS-5U30": {
+            "size": [
+                24.0,
+                9.0,
+                33.0
+            ],
+            "desc": "30 in. Ducted Under Cabinet Range Hood in Stainless Steel",
+            "forecastability": [
+                "low",
+                41.0
+            ],
+            "factory code": 7,
+            "container qty": 750,
+            "safety": "25",
+            "min": "10"
+        },
+        "COS-965AGFC": {
+            "size": [
+                42.0,
+                30.0,
+                41.0
+            ],
+            "desc": "36 in. Gas Range with Oven and 5 Burner Cooktop with Heavy Duty Cast Iron Grates in Stainless Steel",
+            "forecastability": [
+                "high",
+                9.0
+            ],
+            "factory code": 2,
+            "container qty": 84,
+            "safety": "15",
+            "min": "5"
+        },
+        "COS-965AGC": {
+            "size": [
+                55.0,
+                30.0,
+                41.0
+            ],
+            "desc": "36 in. Gas Range with Oven and 5 Burner Cooktop with Heavy Duty Cast Iron Grates in Stainless Steel",
+            "forecastability": [
+                "high",
+                8.0
+            ],
+            "factory code": 2,
+            "container qty": 84,
+            "safety": "25",
+            "min": "10"
+        },
+        "COS-244AGC": {
+            "size": [
+                45.0,
+                30.0,
+                41.0
+            ],
+            "desc": "24 in. 2.73 cu. Ft. Single oven gas range with 4 burner cooktop and heavy duty cast iron grates in stainless steel",
+            "forecastability": [
+                "very low",
+                100.0
+            ],
+            "factory code": 2,
+            "container qty": 108,
+            "safety": "10",
+            "min": "5"
+        },
+        "COS-30ESWC": {
+            "size": [
+                31.0,
+                30.0,
+                33.0
+            ],
+            "desc": "COS-30ESWC Oven",
+            "forecastability": [
+                "medium",
+                17.0
+            ],
+            "factory code": 2,
+            "container qty": 88,
+            "safety": "15",
+            "min": "5"
+        },
+        "COS-30EDWC": {
+            "size": [
+                33.0,
+                30.0,
+                54.0
+            ],
+            "desc": "COS-30EDWC 30\" Double Electric Wall Oven",
+            "forecastability": [
+                "medium",
+                12.0
+            ],
+            "factory code": 2,
+            "container qty": 88,
+            "safety": "10",
+            "min": "5"
+        },
+        "COS-305AERC": {
+            "size": [
+                29.0,
+                33.0,
+                38.0
+            ],
+            "desc": "COS-305AERC 30\" All-Electric Freestanding/ Slide-in Range",
+            "forecastability": [
+                "medium",
+                14.0
+            ],
+            "factory code": 2,
+            "container qty": 88,
+            "safety": "10",
+            "min": "5"
+        },
+        "F965NF": {
+            "size": [
+                40.0,
+                37.0,
+                28.0
+            ],
+            "desc": "F965NF",
+            "forecastability": [
+                "very low",
+                66.0
+            ],
+            "factory code": 2,
+            "container qty": 84,
+            "safety": "10",
+            "min": "5"
+        },
+        "F965": {
+            "size": [
+                42.0,
+                30.0,
+                41.0
+            ],
+            "desc": "36 in. Dual Fuel Range with 8 Function Convection Oven in Stainless Steel",
+            "forecastability": [
+                "high",
+                10.0
+            ],
+            "factory code": 2,
+            "container qty": 84,
+            "safety": "10",
+            "min": "5"
+        },
+        "C51EIX": {
+            "size": [
+                35.0,
+                30.0,
+                41.0
+            ],
+            "desc": "24 in. 2 cu. ft. Single Electric Wall Oven with 5 Functions",
+            "forecastability": [
+                "low",
+                29.0
+            ],
+            "factory code": 1,
+            "container qty": 162,
+            "safety": "10",
+            "min": "5"
+        },
+        "C106SIX-PT": {
+            "size": [
+                35.0,
+                30.0,
+                41.0
+            ],
+            "desc": "24 in. 2 cu. ft. Single Electric Wall Oven w/ 10 Functions",
+            "forecastability": [
+                "medium",
+                18.0
+            ],
+            "factory code": 1,
+            "container qty": 162,
+            "safety": "10",
+            "min": "5"
+        },
+        "COS-GRT366": {
+            "size": [
+                13.0,
+                30.0,
+                39.0
+            ],
+            "desc": "COS-GRT366",
+            "forecastability": [
+                "medium",
+                22.0
+            ],
+            "factory code": 3,
+            "container qty": 210,
+            "safety": "10",
+            "min": "5"
+        },
+        "COS-EPGR244": {
+            "size": [
+                39.8,
+                28.7,
+                25.2
+            ],
+            "desc": "COS-EPGR244",
+            "forecastability": [
+                "low",
+                30.0
+            ],
+            "factory code": 3,
+            "container qty": 102,
+            "safety": "10",
+            "min": "5"
+        },
+        "COS-EPGR486G": {
+            "size": [
+                46.0,
+                52.0,
+                30.0
+            ],
+            "desc": "COS-EPGR486G",
+            "forecastability": [
+                "medium",
+                17.0
+            ],
+            "factory code": 3,
+            "container qty": 54,
+            "safety": "10",
+            "min": "5"
+        },
+        "COS-EPGR366": {
+            "size": [
+                45.0,
+                39.0,
+                30.0
+            ],
+            "desc": "COS-EPGR366",
+            "forecastability": [
+                "medium",
+                12.0
+            ],
+            "factory code": 3,
+            "container qty": 72,
+            "safety": "10",
+            "min": "5"
+        },
+        "COS-EPGR304": {
+            "size": [
+                45.0,
+                33.0,
+                30.0
+            ],
+            "desc": "COS-EPGR304",
+            "forecastability": [
+                "high",
+                9.0
+            ],
+            "factory code": 3,
+            "container qty": 84,
+            "safety": "15",
+            "min": "5"
+        },
+        "COS-GRP486G": {
+            "size": [
+                45.7,
+                30.7,
+                53.9
+            ],
+            "desc": "COS-GRP486G",
+            "forecastability": [
+                "low",
+                47.0
+            ],
+            "factory code": 4,
+            "container qty": 42,
+            "safety": "10",
+            "min": "5"
+        },
+        "COS-GRP366": {
+            "size": [
+                44.0,
+                32.0,
+                39.0
+            ],
+            "desc": "COS-GRP366",
+            "forecastability": [
+                "low",
+                47.0
+            ],
+            "factory code": 4,
+            "container qty": 52,
+            "safety": "10",
+            "min": "5"
+        },
+        "COS-FDR225RHSS": {
+            "size": [
+                78.0,
+                40.0,
+                48.0
+            ],
+            "desc": "Cosmo FDR225RHSS 36 in Double French Door Refrigerator | Energy Efficient Fridge with 2 Drawer Bottom Freezer & Built-In Automatic Ice Maker/Chest, 22.5 cu. ft. Storage Capacity - Stainless Steel",
+            "forecastability": [
+                "medium",
+                13.0
+            ],
+            "factory code": 9,
+            "container qty": 48,
+            "safety": "15",
+            "min": "5"
+        },
+        "COS-FDR225RHSS-G": {
+            "size": [
+                78.0,
+                40.0,
+                48.0
+            ],
+            "desc": "COS-FDR225RHSS-G",
+            "forecastability": [
+                "medium",
+                11.0
+            ],
+            "factory code": 6,
+            "container qty": 48,
+            "safety": "10",
+            "min": "5"
+        },
+        "COS-SBSR263RHSS": {
+            "size": [
+                72.4,
+                36.2,
+                38.5
+            ],
+            "desc": "COS-SBSR263RHSS",
+            "forecastability": [
+                "very low",
+                52.0
+            ],
+            "factory code": 9,
+            "container qty": 26,
+            "safety": "10",
+            "min": "5"
+        },
+        "COS-24BIWCS": {
+            "size": [
+                36.0,
+                27.0,
+                26.0
+            ],
+            "desc": "COS-24BIWCS",
+            "forecastability": [
+                "medium",
+                20.0
+            ],
+            "factory code": 10,
+            "container qty": 102,
+            "safety": "10",
+            "min": "5"
+        },
+        "COS-DIS6502": {
+            "size": [
+                40.0,
+                40.0,
+                31.0
+            ],
+            "desc": "COS-DIS6502",
+            "forecastability": [
+                "high",
+                9.0
+            ],
+            "factory code": 8,
+            "container qty": 168,
+            "safety": "15",
+            "min": "5"
+        },
+        "COS-3016ORM1SS": {
+            "size": [
+                20.08,
+                19.29,
+                33.27
+            ],
+            "desc": "30 in. 1.6 cu. ft. Over the Range Microwave COS-3016ORM1SS",
+            "forecastability": [
+                "high",
+                8.0
+            ],
+            "factory code": 1,
+            "container qty": 330,
+            "safety": "15",
+            "min": "5"
+        },
+        "COS-3019ORM2SS": {
+            "size": [
+                20.08,
+                19.29,
+                33.27
+            ],
+            "desc": "30 in. 1.9 cu. ft. Over the Range Microwave COS-3019ORM2SS",
+            "forecastability": [
+                "medium",
+                24.0
+            ],
+            "factory code": 1,
+            "container qty": 330,
+            "safety": "10",
+            "min": "5"
+        },
+        "COS-BIM22SSB": {
+            "size": [
+                17.2,
+                23.1,
+                27.3
+            ],
+            "desc": "24 in. 2.2 cu. ft. Countertop Microwave COS-BIM22SSB",
+            "forecastability": [
+                "low",
+                32.0
+            ],
+            "factory code": 1,
+            "container qty": 414,
+            "safety": "25",
+            "min": "10"
+        },
+        "COS-2413ORM1SS": {
+            "size": [
+                20.59,
+                20.12,
+                13.11
+            ],
+            "desc": "24 in. 1.34 cu. ft. Over the Range Microwave COS-2413ORM1SS",
+            "forecastability": [
+                "medium",
+                19.0
+            ],
+            "factory code": 1,
+            "container qty": 370,
+            "safety": "10",
+            "min": "5"
+        },
+        "COS-30BIMTK": {
+            "size": [
+                7.1,
+                20.9,
+                31.5
+            ],
+            "desc": "COS-30BIMTK",
+            "forecastability": [
+                "medium",
+                12.0
+            ],
+            "factory code": 1,
+            "container qty": 1000,
+            "safety": "10",
+            "min": "5"
+        },
+        "COS-12MWDSS": {
+            "size": [
+                25.0,
+                30.0,
+                41.0
+            ],
+            "desc": "COS-12MWDSS",
+            "forecastability": [
+                "low",
+                45.0
+            ],
+            "factory code": 1,
+            "container qty": 239,
+            "safety": "10",
+            "min": "5"
+        },
+        "COS-12MWDSS-NH": {
+            "size": [
+                25.0,
+                30.0,
+                41.0
+            ],
+            "desc": "COS-12MWDSS-NH",
+            "forecastability": [
+                "very low",
+                77.0
+            ],
+            "factory code": 1,
+            "container qty": 239,
+            "safety": "10",
+            "min": "5"
+        },
+        "COS-23AFAKB": {
+            "size": [
+                13.0,
+                10.0,
+                10.0
+            ],
+            "desc": "COS-23AFAKB Air Fryer",
+            "forecastability": [
+                "low",
+                27.0
+            ],
+            "factory code": 11,
+            "container qty": 2944,
+            "safety": "40",
+            "min": "15"
+        },
+        "RA1995K-5": {
+            "size": [
+                5.0,
+                11.0,
+                3.0
+            ],
+            "desc": "RA1995K-5-W",
+            "forecastability": [
+                "medium",
+                12.0
+            ],
+            "factory code": "disregard",
+            "container qty": 1
+        },
+        "RA19927K-4": {
+            "size": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "desc": "RA19927K-4-W",
+            "forecastability": [
+                "N/A",
+                "N/A"
+            ],
+            "factory code": "disregard",
+            "container qty": 1
+        },
+        "CFK1-TM": {
+            "size": [
+                7.0,
+                7.0,
+                3.0
+            ],
+            "desc": "Charcoal Filter TM",
+            "forecastability": [
+                "high",
+                9.0
+            ],
+            "factory code": 7,
+            "container qty": 73529
+        },
+        "CFK3-TM": {
+            "size": [
+                9.0,
+                9.0,
+                1.0
+            ],
+            "desc": "CFK3-TM",
+            "forecastability": [
+                "very high",
+                4.0
+            ],
+            "factory code": 7,
+            "container qty": 1
+        },
+        "CFK5-JL": {
+            "size": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "desc": "CFK5-JL",
+            "forecastability": [
+                "medium",
+                12.0
+            ],
+            "factory code": 5,
+            "container qty": 1
+        },
+        "CFK-MW1": {
+            "size": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "desc": "CFK-MW1",
+            "forecastability": [
+                "N/A",
+                "N/A"
+            ],
+            "factory code": 1,
+            "container qty": 1
+        },
+        "COS-SBM": {
+            "size": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "desc": "COS-SBM",
+            "forecastability": [
+                "N/A",
+                "N/A"
+            ],
+            "factory code": "disregard",
+            "container qty": 1
+        },
+        "CFK3-DM": {
+            "size": [
+                9.0,
+                9.0,
+                1.0
+            ],
+            "desc": "CFK3-DM",
+            "forecastability": [
+                "very high",
+                2.0
+            ],
+            "factory code": "disregard",
+            "container qty": 1
+        },
+        "CFK4": {
+            "size": [
+                2.0,
+                8.0,
+                8.0
+            ],
+            "desc": "CFK4",
+            "forecastability": [
+                "medium",
+                17.0
+            ],
+            "factory code": 8,
+            "container qty": 1
+        }
+    }
+}
