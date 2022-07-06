@@ -335,8 +335,8 @@ def SC_login(driver):
     pwd = driver.find_element(By.NAME , "ctl00$ContentPlaceHolder1$txtPwd")
     email.clear()
     pwd.clear()
-    email.send_keys("trujillochristian.cosmo@gmail.com")
-    pwd.send_keys("Quertzy062813!"+Keys.ENTER)
+    email.send_keys(" username here ")
+    pwd.send_keys(" password here "+Keys.ENTER)
 ### downoad SC exports needed for updating sheets ###
 def download_sales(window):
     window.write_event_value('--salesupdate--', 'Updating Files')
