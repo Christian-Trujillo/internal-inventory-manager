@@ -1,0 +1,5 @@
+this folder would hold pickle files for each item containing compacted 
+
+information about the machine learning linear rgression classifier model 
+
+used for predicting future sales
